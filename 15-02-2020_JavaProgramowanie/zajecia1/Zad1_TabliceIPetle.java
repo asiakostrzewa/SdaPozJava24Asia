@@ -1,4 +1,4 @@
-import java.util.Random;
+/*import java.util.Random;
 import java.util.Scanner;
 
 public class Zad1_TabliceIPetle {
@@ -37,3 +37,4 @@ public class Zad1_TabliceIPetle {
         System.out.println("Trafiono "+ suma + " z 6 cyfr");
     }
 }
+*/
